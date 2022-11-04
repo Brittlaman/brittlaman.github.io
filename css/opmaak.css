@@ -12,7 +12,7 @@ ody {
   float: left;
   font-size: 16px;
   color: rgb(0, 0, 0);
-  text-align: center;
+  text-align: left;
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -64,12 +64,12 @@ ody {
 }
 
 .h1{
-  text-align: center;
+  text-align: left;
   font-size: 50px;
 }
 
 .firstp{
-  text-align: center;
+  text-align: left;
 }
 
 #smile{
