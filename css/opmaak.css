@@ -34,7 +34,7 @@ ody {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: rgb(46, 218, 221);
 }
 
 .dropdown-content {
